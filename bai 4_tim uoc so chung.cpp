@@ -14,6 +14,8 @@ int main()
            a=b;
            b=tg;
     }
+    
+    //Sửa chữa lần đầu
     while(b!=0)
     {
            tg=a%b;
